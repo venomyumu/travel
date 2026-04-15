@@ -1,13 +1,9 @@
 ---
-title: 首页
-enableToc: false
-enableExplorer: false
----
----
 title: 🌍 我的旅行轨迹
 description: 记录探索世界的足迹与攻略
 cssclasses:
   - dashboard-page
+author: 羽木
 ---
 
 # 欢迎来到我的旅行手记 ✈️
@@ -21,6 +17,8 @@ cssclasses:
 <div class="destination-grid">
 
 > [!abstract] 🌸 日本行 (Japan)
+> [!calendar] **精华路线推荐** 
+> - **[[关西-关东7至8天旅行路线]]** > *包含全行程交通衔接、每日时间线及避坑指南。*
 > 探索关东的繁华与关西的古韵。
 > 
 > **🏙️ 关东漫游**
@@ -35,13 +33,11 @@ cssclasses:
 > - **[[奈良]]**：[[东大寺]] | [[春日大社]] | [[奈良公园]]
 
 > [!info] 🐼 国内游 (China)
-> 丈量祖国的大好河山。（后续扩展示例）
 > 
 > **📍 规划中...**
-> - 敬请期待
+> - 雨崩ing
 
 > [!example] 🗺️ 更多国家 (Coming Soon)
-> 步履不停，探索不止。
 > 
 > **📍 规划中...**
 > - 敬请期待
