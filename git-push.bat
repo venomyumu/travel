@@ -9,6 +9,11 @@ echo.
 set /p commit="请输入commit提交信息："
 
 echo.
+echo [0/3] 显示修改的文件...
+git status
+pause
+
+echo.
 echo [1/3] 正在添加所有文件...
 git add .
 
